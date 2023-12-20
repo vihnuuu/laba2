@@ -1,0 +1,7 @@
+C:\Users\vihnu\RiderProjects\objorprog\laba2\bin\Debug\laba2.exe
+C:\Users\vihnu\RiderProjects\objorprog\laba2\bin\Debug\laba2.pdb
+C:\Users\vihnu\RiderProjects\objorprog\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+C:\Users\vihnu\RiderProjects\objorprog\laba2\obj\Debug\laba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vihnu\RiderProjects\objorprog\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\vihnu\RiderProjects\objorprog\laba2\obj\Debug\laba2.exe
+C:\Users\vihnu\RiderProjects\objorprog\laba2\obj\Debug\laba2.pdb
